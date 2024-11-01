@@ -19,5 +19,5 @@ output show color diffrence between added and removed string
     Differences: +a +b +d -a -b -c -d +f
     Inline output: abdabcdf
    ```
-<img src="https://github.com/mridul037/myers-diff-algo/blob/main/img.png" width="648" height="81"/>
+<img src="https://github.com/mridul037/myers-diff-algo/blob/main/img.png" width="448" height="61"/>
 
