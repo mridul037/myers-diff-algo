@@ -19,4 +19,4 @@ output show color diffrence between added and removed string
     Differences: +a +b +d -a -b -c -d +f
     Inline output: abdabcdf
    ```
-  
+ ![alt text](https://github.com/mridul037/myers-diff-algo/blob/main/img.png)
