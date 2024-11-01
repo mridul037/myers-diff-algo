@@ -13,7 +13,8 @@ command
     Enter the first string: abcd
     Enter the second string: abdf
 ```
-output 
+
+output show color diffrence between added and removed string
    ```bash
     Differences: +a +b +d -a -b -c -d +f
     Inline output: abdabcdf
